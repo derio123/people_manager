@@ -1,0 +1,7 @@
+{
+  "name": "people_manager",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
